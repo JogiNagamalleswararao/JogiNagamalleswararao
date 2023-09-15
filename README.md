@@ -32,9 +32,15 @@ Here are some ideas to get you started:
 
 ###
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/JogiNagamalleswararao/count.svg" />
+</p>
+<br>
+<!--
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=JogiNagamalleswararao.JogiNagamalleswararao&"  />
-</div>
+</div>-->
 
 ###
 
