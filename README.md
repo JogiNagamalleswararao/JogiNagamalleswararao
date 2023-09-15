@@ -1,5 +1,4 @@
 
-
 <!--
 **JogiNagamalleswararao/JogiNagamalleswararao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -37,7 +36,8 @@ Here are some ideas to get you started:
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1>Hi there, This is Naga Malleswara Rao (Developer)</a><img src="https://media.tenor.com/images/dde00ef959f44dc5279786fc7f20fe5b/tenor.gif" width="40" ></h1>
+<h3>Passionate about Programming Research & Development</h3>
 
 ###
 
