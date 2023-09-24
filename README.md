@@ -1,5 +1,5 @@
-Hi there, This is Naga Malleswara Rao (Developer)<img src="https://media.tenor.com/images/dde00ef959f44dc5279786fc7f20fe5b/tenor.gif" width="40" >
-<h3>Passionate about Programming Research & Development</h3><br><br>
+<b>Hi there, This is Naga Malleswara Rao (Developer)</b><img src="https://media.tenor.com/images/dde00ef959f44dc5279786fc7f20fe5b/tenor.gif" width="40" >
+<h3>Passionate about Programming Research & Development😉</h3><br><br>
 
 <!--
 **JogiNagamalleswararao/JogiNagamalleswararao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm  Malleswara rao <br><br>- 🔭 I’m working as Developer<br>- 📚 I'm currently learning New tech stack<br>- ⚡ In my free time  I solved problems in leetcode</p>
+<p align="left">I'm  Malleswara rao <br><br>- 🔭 I’m working as Developer<br>- 🌱 I’m currently learning Angular/Flutter <br>- ⚡ In my free time  I solved problems in leetcode</p>
 
 ###
 
